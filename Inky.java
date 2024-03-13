@@ -4,7 +4,11 @@ public Inky(String x){
 System.out.println(x);
 }
 
+
 public Inky(String pinky,String blinky,String rinky){
+
+  
+//print
 System.out.println(blinky + " " + pinky);
 System.out.println(pinky + " " + rinky);
 System.out.println(blinky + " " + pinky + " " + rinky);
